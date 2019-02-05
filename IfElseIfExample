@@ -27,7 +27,8 @@ public class IfElseIfExample {
 	  System.out.println("Its a five digit number");			
 	}
 	else {
-	  System.out.println("number is not between 1 & 99999");			
+	  System.out.println("number is not between 1 & 99999");
+	  System.out.println("number is not between 1 & 99999");				
 	}
 	else if(num <10000 && num>=1000) {
 	  System.out.println("Its a four digit number");
